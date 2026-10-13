@@ -1,4 +1,4 @@
-//Hunter Low
+//Hunter Low 10/13/2026
 import java.util.Scanner;
 //Makes a pet selector based on your fav color, season, and your name
 class pet {
